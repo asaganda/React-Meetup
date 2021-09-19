@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+I bult this app from a youtube tutorial - Meetup Clone app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
