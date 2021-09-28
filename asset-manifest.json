@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Meetup/static/css/main.474ba5e5.chunk.css",
-    "main.js": "/React-Meetup/static/js/main.8e72efb4.chunk.js",
-    "main.js.map": "/React-Meetup/static/js/main.8e72efb4.chunk.js.map",
-    "runtime-main.js": "/React-Meetup/static/js/runtime-main.e7bd2ea5.js",
-    "runtime-main.js.map": "/React-Meetup/static/js/runtime-main.e7bd2ea5.js.map",
-    "static/js/2.a7692e33.chunk.js": "/React-Meetup/static/js/2.a7692e33.chunk.js",
-    "static/js/2.a7692e33.chunk.js.map": "/React-Meetup/static/js/2.a7692e33.chunk.js.map",
-    "index.html": "/React-Meetup/index.html",
-    "static/css/main.474ba5e5.chunk.css.map": "/React-Meetup/static/css/main.474ba5e5.chunk.css.map",
-    "static/js/2.a7692e33.chunk.js.LICENSE.txt": "/React-Meetup/static/js/2.a7692e33.chunk.js.LICENSE.txt"
+    "main.css": "/React-Meetup/allmeetups/static/css/main.474ba5e5.chunk.css",
+    "main.js": "/React-Meetup/allmeetups/static/js/main.aecd8749.chunk.js",
+    "main.js.map": "/React-Meetup/allmeetups/static/js/main.aecd8749.chunk.js.map",
+    "runtime-main.js": "/React-Meetup/allmeetups/static/js/runtime-main.805ed2cc.js",
+    "runtime-main.js.map": "/React-Meetup/allmeetups/static/js/runtime-main.805ed2cc.js.map",
+    "static/js/2.a7692e33.chunk.js": "/React-Meetup/allmeetups/static/js/2.a7692e33.chunk.js",
+    "static/js/2.a7692e33.chunk.js.map": "/React-Meetup/allmeetups/static/js/2.a7692e33.chunk.js.map",
+    "index.html": "/React-Meetup/allmeetups/index.html",
+    "static/css/main.474ba5e5.chunk.css.map": "/React-Meetup/allmeetups/static/css/main.474ba5e5.chunk.css.map",
+    "static/js/2.a7692e33.chunk.js.LICENSE.txt": "/React-Meetup/allmeetups/static/js/2.a7692e33.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7bd2ea5.js",
+    "static/js/runtime-main.805ed2cc.js",
     "static/js/2.a7692e33.chunk.js",
     "static/css/main.474ba5e5.chunk.css",
-    "static/js/main.8e72efb4.chunk.js"
+    "static/js/main.aecd8749.chunk.js"
   ]
 }
