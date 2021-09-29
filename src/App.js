@@ -9,7 +9,7 @@ function App() {
   return (
     <Layout>
       <Switch>
-        <Route path="/allmeetups" exact>
+        <Route path="/" exact>
           <AllMeetupsPage />
         </Route>
         <Route path="/new-meetup">
